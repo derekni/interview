@@ -130,7 +130,7 @@
 
 ### Misc
 
-* Pramp - ~~[Mistakes in Technical Interviews According to Data](https://blog.pramp.com/top-8-mistakes-in-technical-interviews-according-to-data-27d2572bda1f)~~
+* ~~Pramp - [Mistakes in Technical Interviews According to Data](https://blog.pramp.com/top-8-mistakes-in-technical-interviews-according-to-data-27d2572bda1f)~~
 * Joel Spolsky – [The Guerrilla Guide to Interviewing (v.3)](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
 * Steve Yegge – [Done, and Gets Things Smart](http://steve-yegge.blogspot.co.uk/2008/06/done-and-gets-things-smart.html)
 * Steve Yegge – [Five Essential Phone Interview Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
